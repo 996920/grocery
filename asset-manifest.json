@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/996920/grocery.git/static/css/main.073c9b0a.css",
+    "main.js": "/996920/grocery.git/static/js/main.304b82bc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/996920/grocery.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/996920/grocery.git/index.html",
+    "main.073c9b0a.css.map": "/996920/grocery.git/static/css/main.073c9b0a.css.map",
+    "main.304b82bc.js.map": "/996920/grocery.git/static/js/main.304b82bc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/996920/grocery.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.304b82bc.js"
+  ]
+}
